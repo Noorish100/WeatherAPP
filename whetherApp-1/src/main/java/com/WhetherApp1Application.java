@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WhetherAppApplication {
+public class WhetherApp1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WhetherAppApplication.class, args);
+		SpringApplication.run(WhetherApp1Application.class, args);
 	}
 
 }
