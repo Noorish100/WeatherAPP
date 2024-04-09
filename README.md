@@ -8,6 +8,7 @@
     <p>
         Header-based authentication is used with random client ID and client secret. The client ID and secret are obtained from Rapid API and included in the request headers for authentication.
     </p>
+       <p>Basic Authentication ------>username = user password = 12345</p>
      <h2>Swagger URL Frontend----->http://localhost:8882/swagger-ui/index.html<h2>
     <h2>API Endpoints:</h2>
     <h3>Get Weather Forecast Summary by Location Name</h3>
